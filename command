@@ -32,8 +32,368 @@
         "name": "Audi Sport Quattro"
     },
     {
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ford_F-150_Lariat_Luxury_2022.jpg",
+        "img": "placeholder",
         "name": "Ford F-150"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
+    },
+    {
+        "img": "placeholder",
+        "name": "placeholder"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442311347814531263/Screenshot_2025-11-23_193000.png?ex=69e4cade&is=69e3795e&hm=2b4043aea0e1cc239dd8d3cdc8fc6cc66f2badf37be5082d31be6c6891744396&",
