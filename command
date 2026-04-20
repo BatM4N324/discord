@@ -32,68 +32,68 @@
         "name": "Audi Sport Quattro"
     },
     {
-        "img": "placeholder",
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1427370057511473162/Screenshot_2025-10-13_145758.png?ex=69e72034&is=69e5ceb4&hm=78b0c6cb70ebc223f7c93cdb24872fa094f5d51d30918e9ff45618ca95ab06f6&",
         "name": "Ford F-150"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1453867349714145301/IMG_1932.png?ex=69e69f7b&is=69e54dfb&hm=dcd025f360af6849d3d026e4afd3c99c4e6d85f388f7a88cd28dfa10135171f2&",
+        "name": "Ram 1500 TRX 6x6"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1449884106006593658/50fc82a5-8916-4cc6-9525-cdebbdfbbc57.png?ex=69e6a24c&is=69e550cc&hm=c9a0d0e99448d93bbe46ce075d720dac0655bbdd96cdf0cc52e7a935da8d5f13&",
+        "name": "Lykan Hypersport"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1456737997742411858/bugatti-centodieci.jpg?ex=69e72dbb&is=69e5dc3b&hm=1359679db6295ee1b1a07d7aa71b500b87a303b5c6aaab4b6248f0f539154b3d&",
+        "name": "Bugatti Centodieci"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442317637383229581/Screenshot_2025-11-23_195509.png?ex=69e6caf9&is=69e57979&hm=bea6c91a8b05e3db7f249e75de0102355be6c3c851451a9865d3df592aca0ec8&",
+        "name": "Audi R8 LMS Ultra"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1439632333564280973/KB_Garage_RS200_900x.jpg?ex=69e6e957&is=69e597d7&hm=f8ad04b8671b51795b06d9ed8d42a0410e5b09ba355420521053a46105046a32&",
+        "name": "Ford RS200"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442901644357533838/294633_w660_h330.jpg?ex=69e6f09f&is=69e59f1f&hm=fa7941070b210534998571a128ac226f01a448d5f0056342be122448df6460b3&",
+        "name": "Porsche 911 GT3 Cup"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1441927459934306396/Porsche-917_Living_Legend_Concept-2013-1280-0aec2dc414ced2be7da8e725005836be97.jpg?ex=69e6b118&is=69e55f98&hm=fd781c2f23429655408e70fac79e0d963d702ca04c7668e561c8bd7a400a03e4&",
+        "name": "Porsche 917 Living Legend"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://media.discordapp.net/attachments/1425499765109428295/1441539962918010920/IMG_2378.webp?ex=69e699b5&is=69e54835&hm=7f52454513304f1c6fd265974ad473daa7a377a12ef4ab02be7ce23d25b55111&=&format=webp",
+        "name": "Porsche Mission R"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1439612143807762432/1-11.jpg?ex=69e6d689&is=69e58509&hm=dc0d11bf7f07a32473bfabc15876bdff55a90e26bec8093beebb8b6d85fa1080&",
+        "name": "Bugatti EB110"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1439314678365950133/mclaren-w1-8.png?ex=69e71300&is=69e5c180&hm=5540d86a0abe10240ede0d8aedf89ddf9aec1ed5dd204d350cbe82e6fd6c4d0e&",
+        "name": "McLaren W1"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1439314133970456726/OIP.png?ex=69e7127e&is=69e5c0fe&hm=603c177a1493d3ffbcf9cb21e4c2840cdca405e195ebdfe68a8123db1b190d70&",
+        "name": "Rimac Nevera R"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1438524029194473604/12234a-scaled.jpg?ex=69e6d5a7&is=69e58427&hm=c86cdb2bc8b4bd4bdc7be5aa9a43d9eab8dfae9cb854b3ece4111e7fa3a640ef&",
+        "name": "Pagani Huayra"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1438169889213907004/2022-ferrari-daytona-sp3-133-1659298033.jpg?ex=69e6dd55&is=69e58bd5&hm=4867040370dd4747fa76f1058370d691622a10e3915d0f912817e45f826981de&",
+        "name": "Ferrari Daytona SP3"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1430681311038672956/IMG_2223.png?ex=69e6a5cd&is=69e5544d&hm=720525a3a567ccdc6eecb2cad9da7858d48941d02392652acd16fe30694b2dd7&",
+        "name": "Bugatti Roadster"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1432290731053027391/007-2024-Koenigsegg-CC850-SuperCar-First-Look.jpg?ex=69e691f0&is=69e54070&hm=3b589d8a5360f49bb789a001b3ec8b6d67ffa6158c9b7087106a55cc655c5d57&",
+        "name": "Koenigsegg CC850"
     },
     {
         "img": "placeholder",
