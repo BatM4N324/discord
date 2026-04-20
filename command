@@ -21,7 +21,7 @@
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442316289438781500/Screenshot_2025-11-23_194946.png?ex=69e4cf78&is=69e37df8&hm=492f0941813741568bb59cbbdf953ea85da185abf029e7092376d8eecb4160bc&",
-        "name": "Nissan GTR GT3"
+        "name": "Nissan GT-R NISMO GT3"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1444400480498487498/2ed5be09be23d1bd12e9bb3a65d30da0_1.jpg?ex=69e47b86&is=69e32a06&hm=ab3db47e6fc656801fa7def7eb15fdc24b9057efe1e63e5bd52138f69ed60a8e&",
@@ -96,8 +96,8 @@
         "name": "Koenigsegg CC850"
     },
     {
-        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1437534388517863494/2022_Bugatti_Centodieci_SCD_24.jpg?ex=69e7307a&is=69e5defa&hm=25b73d229a26ee7149b61ac494c49732711f97140d15f6ecae9838ca33f38bbc&",
-        "name": "2022 Bugatti Centodieci"
+        "img": "https://cdn.discordapp.com/attachments/1466228533306327183/1495717939108909056/918_Spyder_mittig.jpg?ex=69e74361&is=69e5f1e1&hm=5d7a558219608f4a4922a4c7da8d5102f422e8c9112ffe895a41d27c5d55c616&",
+        "name": "Porsche 918 Spyder"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1435188819866554368/images_1.jpg?ex=69e690ff&is=69e53f7f&hm=49f60348211ad8d7b8621efafaef2ffa5f41c197273c236f0c314a66432e5cbe&",
@@ -128,8 +128,8 @@
         "name": "Dodge Viper"
     },
     {
-        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1429830629473648700/2024_6_Hours_of_Spa-Francorchamps_Peugeot_TotalEnergies_Peugeot_9X8_No.94_DSC04548_3.jpg?ex=69e6d94b&is=69e587cb&hm=f6d1cf80f8308f234711377d53f876ef1f6a4bb919135c51399c3fe690ee27cc&",
-        "name": "Peugeot 9x8 Hypercar"
+        "img": "https://cdn.discordapp.com/attachments/1466228533306327183/1495718536675459102/plain-charter-bus.png?ex=69e743f0&is=69e5f270&hm=686e15fd3dec6c27b9ada39317d23465e27fa26bc1ce42487af9e469944ae0e9&",
+        "name": "Charter Bus"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1427469050233229372/Screenshot_2025-10-13_213029.png?ex=69e6d3a6&is=69e58226&hm=b57dd181735021ea640fa8c38f82bc95053cd89c3c14ca059979591377a08a9f&",
@@ -173,7 +173,7 @@
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1425505944737026109/image.png?ex=69e6ef9d&is=69e59e1d&hm=187c48d16f2c3043b1c551425fcae204676db7fd5f05777ab688eb64cfd2a99b&",
-        "name": "Rimac Revera"
+        "name": "Rimac Nevera"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1425513178447745054/Screenshot_20240910_233549_Chrome.jpg?ex=69e6f65a&is=69e5a4da&hm=6bef8afe2bab01bc048c876264169c975e5f52de58d49a4b6a0ac18a7d6e3e75&",
@@ -196,8 +196,8 @@
         "name": "Arrinera Hussarya GT"
     },
     {
-        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442311347814531263/Screenshot_2025-11-23_193000.png?ex=69e4cade&is=69e3795e&hm=2b4043aea0e1cc239dd8d3cdc8fc6cc66f2badf37be5082d31be6c6891744396&",
-        "name": "Mercedes-Benz AMG GT3"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1425500736975798333/IMG_0850.jpg?ex=69e6eac4&is=69e59944&hm=4d98389e4e99462a21ae4497dd4e46be9f671c5f66ecf8ea8a97fd331d235a75&",
+        "name": "Bugatti Tourbillon"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442318711460728993/Screenshot_2025-11-23_195918.png?ex=69e6cbf9&is=69e57a79&hm=262541ffde263cb9d02d57d54fc69ceb29f2c829383afade7195146a0684a231&",
