@@ -96,28 +96,28 @@
         "name": "Koenigsegg CC850"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1437534388517863494/2022_Bugatti_Centodieci_SCD_24.jpg?ex=69e7307a&is=69e5defa&hm=25b73d229a26ee7149b61ac494c49732711f97140d15f6ecae9838ca33f38bbc&",
+        "name": "2022 Bugatti Centodieci"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1435188819866554368/images_1.jpg?ex=69e690ff&is=69e53f7f&hm=49f60348211ad8d7b8621efafaef2ffa5f41c197273c236f0c314a66432e5cbe&",
+        "name": "McMurtry Speirling"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1435619733478310030/113926.jpg?ex=69e6d0d0&is=69e57f50&hm=9db82abc7c27dd870587481c7c94a2c7b3b9829eeec428762878be45fef0caaf&",
+        "name": "Mercedes 300-SLR Uhlenhaut Coupe"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1432744378283331695/dsc08261.webp?ex=69e6e6ee&is=69e5956e&hm=3be000dfd4512b6726851d37f4ed25d261b4700d483e334c140c20e8d2c07d0d&",
+        "name": "Aston Martin One-77"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1425537508732829870/romain-dumas-ford-supervan-4.jpg?ex=69e70d03&is=69e5bb83&hm=ac0f0b0947bbf871ec9a4f37b917b5d60fdffffa728b3221472aad416efc3da4&",
+        "name": "Ford SuperVan 4.2"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1432052157397471272/2008-07-12_Volkswagen_W12_Syncro_Concept_Goodwood_1.jpg?ex=69e70540&is=69e5b3c0&hm=caa0de4607e380aa0fc92e781538ae597b79cf14a1033e4f3ff3f2ef2245d869&",
+        "name": "Volkswagen W12 Nardo"
     },
     {
         "img": "placeholder",
