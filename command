@@ -340,8 +340,8 @@
         "name": "Toyota AE86 Trueno"
     },
     {
-        "img": "placeholder",
-        "name": "placeholder"
+        "img": "https://media.discordapp.net/attachments/1400447385389236245/1495944010567516210/IMG_2726.webp?ex=69e8bead&is=69e76d2d&hm=73dbfcb570d438e73e850cd2e2ee08b7eb25458107f0bdcf7eff470b02886cfd&=&format=webp",
+        "name": "Epik Car"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1433567741717250190/Screenshot_2025-10-30_171725.png?ex=69e69a00&is=69e54880&hm=7bfe165261c95b0fa229c62c61d5bbd7cd83e6016652da7455355b032b41c747&",
