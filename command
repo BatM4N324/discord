@@ -89,7 +89,7 @@
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1430681311038672956/IMG_2223.png?ex=69e6a5cd&is=69e5544d&hm=720525a3a567ccdc6eecb2cad9da7858d48941d02392652acd16fe30694b2dd7&",
-        "name": "Bugatti Roadster"
+        "name": "Bugatti Mistral"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1432290731053027391/007-2024-Koenigsegg-CC850-SuperCar-First-Look.jpg?ex=69e691f0&is=69e54070&hm=3b589d8a5360f49bb789a001b3ec8b6d67ffa6158c9b7087106a55cc655c5d57&",
