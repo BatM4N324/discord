@@ -333,15 +333,15 @@
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1434044438249869412/rendering-dodge-grand-caravan-srt-hellcat-is-a-family-friendly-ode-to-the-fabulous-v8-222766-72.jpg?ex=69e70475&is=69e5b2f5&hm=6068a091883434cfaac7791c696f99473db19ddf8e79e0c058e42c8c05ffd761&",
-        "name": "2008 Dodge Grand Caravan"
+        "name": "Dodge Grand Caravan"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1433975997144764578/Screenshot_2025-10-31_202609.png?ex=69e6c4b7&is=69e57337&hm=c742e73e08acba789969e52740bae2826e53377471cc8e974ebc3b7f365dc0f0&",
         "name": "Toyota AE86 Trueno"
     },
     {
-        "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1433934330190757939/Screenshot_2025-10-31_173615.png?ex=69e69de9&is=69e54c69&hm=0e24860668946c260c8c196da5124e6ebfe1bdd4206d9c5277e4bb46f96dbbfc&",
-        "name": "2005 Dodge Grand Caravan"
+        "img": "placeholder",
+        "name": "placeholder"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1433567741717250190/Screenshot_2025-10-30_171725.png?ex=69e69a00&is=69e54880&hm=7bfe165261c95b0fa229c62c61d5bbd7cd83e6016652da7455355b032b41c747&",
