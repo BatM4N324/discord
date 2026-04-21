@@ -5,7 +5,7 @@
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442310051678388334/Screenshot_2025-11-23_192432.png?ex=69e4c9a9&is=69e37829&hm=be96d23f4d8bc25ac68f4dfba3d08d5d8df221ffa7dc5c8b458ca372a12f22e2&",
-        "name": "Ferrari FXX K Evo"
+        "name": "Ferrari FXX-K"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442311157405847643/Screenshot_2025-11-23_192917.png?ex=69e4cab0&is=69e37930&hm=4b3cb39d5929915ed31c2fcc74404cebc20647b8685cb078686cf803d9ea3254&",
