@@ -229,7 +229,7 @@
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1442262877905096715/2b2e704a5a91cc59379d761069c0bb6f.jpg?ex=69e697fa&is=69e5467a&hm=3042fd587b7c2a3426c1a71389d2eeddf96eedc83d0a7a37e52a509222743d18&",
-        "name": "Audi 90 GTO"
+        "name": "Audi 90 Quattro IMSA GTO"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1441247909369745519/Screenshot_2025-11-20_210252.png?ex=69e6db36&is=69e589b6&hm=2ea5010cfa5095da24452778f7c2ab22e2f4a55ee039a267d1533577b5df4ff9&",
