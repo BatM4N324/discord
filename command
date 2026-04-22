@@ -101,7 +101,7 @@
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1435188819866554368/images_1.jpg?ex=69e690ff&is=69e53f7f&hm=49f60348211ad8d7b8621efafaef2ffa5f41c197273c236f0c314a66432e5cbe&",
-        "name": "McMurtry Speirling, test"
+        "name": "McMurtry Speirling", "test"
     },
     {
         "img": "https://cdn.discordapp.com/attachments/1425499765109428295/1435619733478310030/113926.jpg?ex=69e6d0d0&is=69e57f50&hm=9db82abc7c27dd870587481c7c94a2c7b3b9829eeec428762878be45fef0caaf&",
